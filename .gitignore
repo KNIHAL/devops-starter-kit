@@ -1,2 +1,14 @@
+# Python virtual environment
+venv/
+
+# Environment variables
 .env
-venv
+
+# Node modules (optional, if you haven't already)
+node_modules/
+
+# React build folder (optional)
+frontend/dist/
+
+# __pycache__ folders
+__pycache__/
